@@ -1,0 +1,10 @@
+{
+  "name": "NodejsResponse",
+  "version": "0.0.0",
+  "description": "NodejsResponse",
+  "main": "server.js",
+  "author": {
+    "name": "berts",
+    "email": ""
+  }
+}
